@@ -102,8 +102,6 @@ public class Stack1 {
                         break;
 
             }
-
-
         }
     }
 }
