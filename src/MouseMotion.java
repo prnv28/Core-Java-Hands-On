@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseMotionListener;
 
-public class MouseMotion extends Applet implements MouseMotionListener {
+public class MouseMotion extends Frame implements MouseMotionListener {
 
     Label l;
 
